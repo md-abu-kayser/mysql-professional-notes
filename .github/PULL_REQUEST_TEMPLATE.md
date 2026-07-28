@@ -1,11 +1,15 @@
 ## Description
-Briefly describe what this PR changes or adds.
+
+Fixes # (issue)
+
+## Type of change
+
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactor
 
 ## Checklist
-- [ ] Follows existing naming convention (`NN-topic-name.md`)
-- [ ] Updated `README.md` table of contents if a new file/folder was added
-- [ ] Spell-checked and previewed Markdown
-- [ ] SQL examples are tested/runnable where applicable
 
-## Related issue
-Closes #
+- [ ] My code follows style guidelines
+- [ ] I have performed a self-review
