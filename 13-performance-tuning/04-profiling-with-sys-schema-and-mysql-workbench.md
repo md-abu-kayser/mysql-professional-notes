@@ -1,3 +1,5 @@
-# Profiling With Sys Schema And Mysql Workbench
+# Profiling with sys Schema & Workbench
 
-> Notes coming soon.
+`sys` schema provides views like `statements_with_full_table_scans`. Workbench Visual Explain.
+
+> 📘 Next: [Optimizing Schema & Data Types](05-optimizing-schema-and-data-types.md)
