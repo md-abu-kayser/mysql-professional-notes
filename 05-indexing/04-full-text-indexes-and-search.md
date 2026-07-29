@@ -1,3 +1,6 @@
-# Full Text Indexes And Search
+# Full‑Text Indexes & Search
 
-> Notes coming soon.
+```sql
+ALTER TABLE articles ADD FULLTEXT(title, body);
+SELECT * FROM articles WHERE MATCH(title, body) AGAINST('MySQL tutorial');
+```

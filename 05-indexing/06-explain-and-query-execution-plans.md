@@ -1,3 +1,5 @@
-# Explain And Query Execution Plans
+# EXPLAIN & Query Execution Plans
 
-> Notes coming soon.
+```sql
+EXPLAIN FORMAT=JSON SELECT * FROM users WHERE email = 'a@b.com';
+```
