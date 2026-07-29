@@ -1,3 +1,5 @@
-# Partitioning By Time
+# High‑Write Logging – Partitioning by Time
 
-> Notes coming soon.
+Range partition by hour or day. Easy to drop old data.
+
+> 📘 Next: [Batch Inserts & Performance](02-batch-inserts-and-performance.md)
