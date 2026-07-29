@@ -1,3 +1,3 @@
 # Data Types Reference
 
-> Notes coming soon.
+Numeric, string, date/time, JSON, spatial – with storage requirements and notes.

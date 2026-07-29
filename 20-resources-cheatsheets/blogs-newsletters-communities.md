@@ -1,3 +1,5 @@
-# Blogs Newsletters Communities
+# Blogs, Newsletters & Communities
 
-> Notes coming soon.
+- Percona Database Performance Blog
+- MySQL Server Blog
+- r/mysql, MySQL Community Slack

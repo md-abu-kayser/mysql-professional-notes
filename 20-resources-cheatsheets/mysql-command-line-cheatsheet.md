@@ -1,3 +1,9 @@
-# Mysql Command Line Cheatsheet
+# MySQL Command Line Cheatsheet
 
-> Notes coming soon.
+- `mysql -u root -p`
+- `show databases;`
+- `use mydb;`
+- `show tables;`
+- `describe table;`
+- `source file.sql`
+- `tee output.log`

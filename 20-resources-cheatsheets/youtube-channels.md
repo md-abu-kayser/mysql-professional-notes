@@ -1,3 +1,5 @@
-# Youtube Channels
+# YouTube Channels
 
-> Notes coming soon.
+- MySQL (official)
+- Percona
+- Techno Tim (MySQL + Docker)
