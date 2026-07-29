@@ -1,3 +1,5 @@
-# Select Where Order By Limit
+# SELECT, WHERE, ORDER BY, LIMIT
 
-> Notes coming soon.
+```sql
+SELECT name, email FROM users WHERE active = 1 ORDER BY created_at DESC LIMIT 10;
+```
