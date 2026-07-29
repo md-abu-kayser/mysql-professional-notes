@@ -1,3 +1,5 @@
-# User Accounts And Authentication
+# User Accounts & Authentication
 
-> Notes coming soon.
+```sql
+CREATE USER 'app'@'localhost' IDENTIFIED BY 'password';
+```
