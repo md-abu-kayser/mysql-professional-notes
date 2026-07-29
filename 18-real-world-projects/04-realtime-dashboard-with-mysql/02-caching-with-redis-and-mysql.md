@@ -1,3 +1,5 @@
-# Caching With Redis And Mysql
+# Caching with Redis & MySQL
 
-> Notes coming soon.
+Cache dashboard queries in Redis, invalidate on data change via trigger or application code.
+
+> 📘 Next: **MySQL Group Replication Cluster** – [Setup & Configuration](../05-mysql-group-replication-cluster/01-setup-and-configuration.md)
