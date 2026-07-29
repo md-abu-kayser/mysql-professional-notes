@@ -1,3 +1,5 @@
-# Read Write Splitting With Proxysql Or Router
+# Read‑Write Splitting
 
-> Notes coming soon.
+ProxySQL, MySQL Router, or application‑level split. Direct reads to replicas, writes to master.
+
+> 📘 Next: [Sharding Strategies – Vitess, Proxy](02-sharding-strategies-vitess-proxy.md)
