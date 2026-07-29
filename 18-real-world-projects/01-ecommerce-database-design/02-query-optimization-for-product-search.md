@@ -1,3 +1,5 @@
-# Query Optimization For Product Search
+# Ecommerce DB – Query Optimization
 
-> Notes coming soon.
+Full‑text index on product name/description. Composite indexes on category + price.
+
+> 📘 Next: [Transactions for Order Processing](03-transactions-for-order-processing.md)
