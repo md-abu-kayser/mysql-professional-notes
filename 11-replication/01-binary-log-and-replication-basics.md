@@ -1,3 +1,5 @@
-# Binary Log And Replication Basics
+# Binary Log & Replication Basics
 
-> Notes coming soon.
+Master writes changes to binary log. Slaves read and apply. `CHANGE REPLICATION SOURCE TO` (MySQL 8.0+).
+
+> 📘 Next: [Asynchronous & Semi‑Synchronous Replication](02-asynchronous-and-semi-synchronous-replication.md)

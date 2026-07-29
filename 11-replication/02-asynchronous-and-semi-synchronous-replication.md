@@ -1,3 +1,6 @@
-# Asynchronous And Semi Synchronous Replication
+# Asynchronous & Semi‑Synchronous Replication
 
-> Notes coming soon.
+- Async: slave can lag.
+- Semi‑sync: master waits for at least one slave to acknowledge.
+
+> 📘 Next: [Group Replication & InnoDB Cluster](03-group-replication-and-innodb-cluster.md)
