@@ -1,3 +1,5 @@
-# Mysql Shell Python And Javascript Modes
+# MySQL Shell – Python & JS Modes
 
-> Notes coming soon.
+`mysqlsh --js` or `--py`. Admin API for InnoDB Cluster, Check For Instance, etc.
+
+> 📘 Next: [Automating Administration with Ansible](02-automating-administration-with-ansible.md)

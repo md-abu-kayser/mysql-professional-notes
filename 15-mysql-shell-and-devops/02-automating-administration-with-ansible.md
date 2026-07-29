@@ -1,3 +1,5 @@
-# Automating Administration With Ansible
+# Automating Administration with Ansible
 
-> Notes coming soon.
+Use `community.mysql` modules to manage users, databases, replication.
+
+> 📘 Next: [Docker & MySQL Container Best Practices](03-docker-and-mysql-container-best-practices.md)
