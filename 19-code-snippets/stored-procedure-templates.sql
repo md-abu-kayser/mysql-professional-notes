@@ -1,2 +1,14 @@
--- stored-procedure-templates.sql
--- Add your SQL snippets here.
+DELIMITER //
+CREATE PROCEDURE CreateUser(IN p_name VARCHAR(100), IN p_email VARCHAR(255))
+BEGIN
+  DECLARE EXIT HANDLER FOR SQLEXCEPTION
+  BEGIN
+    ROLLBACK;
+    RESIGNAL;
+  END;
+  START TRANSACTION;
+    INSERT INTO users (name, email) VALUES (p_name, p_email);
+    INSERT INTO audit_log (action) VALUES (CONCAT('User created: ', p_email));
+  COMMIT;
+END //
+DELIMITER ;
