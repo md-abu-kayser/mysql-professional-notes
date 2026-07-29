@@ -1,3 +1,7 @@
-# Date And Time Types Date Datetime Timestamp
+# Date & Time Types
 
-> Notes coming soon.
+- `DATE`, `TIME`, `DATETIME`, `TIMESTAMP`.
+- `TIMESTAMP` auto‑converts to UTC, depends on timezone.
+- Default `CURRENT_TIMESTAMP` for creation.
+
+> 📘 Next: [JSON Data Type & Functions](04-json-data-type-and-functions.md)
