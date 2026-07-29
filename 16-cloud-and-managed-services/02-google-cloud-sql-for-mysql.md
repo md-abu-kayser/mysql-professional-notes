@@ -1,3 +1,5 @@
-# Google Cloud Sql For Mysql
+# Google Cloud SQL for MySQL
 
-> Notes coming soon.
+Fully managed. Automatic failover, backups, scaling.
+
+> 📘 Next: [Azure Database for MySQL](03-azure-database-for-mysql.md)

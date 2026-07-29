@@ -1,3 +1,5 @@
-# Azure Database For Mysql
+# Azure Database for MySQL
 
-> Notes coming soon.
+Single server and flexible server models. Built‑in high availability.
+
+> 📘 Next: [PlanetScale & Serverless MySQL](04-planetscale-and-serverless-mysql.md)
