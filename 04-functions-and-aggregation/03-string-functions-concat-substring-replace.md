@@ -1,3 +1,5 @@
-# String Functions Concat Substring Replace
+# String Functions
 
-> Notes coming soon.
+`CONCAT()`, `SUBSTRING()`, `REPLACE()`, `UPPER()`, `LOWER()`, `TRIM()`.
+
+> 📘 Next: [Date & Time Functions](04-date-and-time-functions.md)
