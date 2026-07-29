@@ -1,3 +1,6 @@
-# Logical Backups Mysqldump Mysqlpump
+# Logical Backups – mysqldump, mysqlpump
 
-> Notes coming soon.
+```bash
+mysqldump -u root -p mydb > backup.sql
+mysqlpump --all-databases > backup.sql
+```

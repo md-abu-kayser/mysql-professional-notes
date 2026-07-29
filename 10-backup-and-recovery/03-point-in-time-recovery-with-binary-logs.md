@@ -1,3 +1,5 @@
-# Point In Time Recovery With Binary Logs
+# Point‑in‑Time Recovery (PITR)
 
-> Notes coming soon.
+Restore full backup, then replay binary logs to a specific point: `mysqlbinlog --start-datetime` / `--stop-datetime`.
+
+> 📘 Next: [Backup Strategies & Scheduling](04-backup-strategies-and-scheduling.md)
