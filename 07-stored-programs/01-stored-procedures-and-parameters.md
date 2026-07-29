@@ -1,3 +1,11 @@
-# Stored Procedures And Parameters
+# Stored Procedures & Parameters
 
-> Notes coming soon.
+```sql
+DELIMITER //
+CREATE PROCEDURE GetUser(IN userId INT)
+BEGIN
+  SELECT * FROM users WHERE id = userId;
+END //
+DELIMITER ;
+CALL GetUser(1);
+```

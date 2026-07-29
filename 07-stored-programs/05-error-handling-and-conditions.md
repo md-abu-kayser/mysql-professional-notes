@@ -1,3 +1,5 @@
-# Error Handling And Conditions
+# Error Handling & Conditions
 
-> Notes coming soon.
+`DECLARE ... HANDLER FOR SQLEXCEPTION`, `CONTINUE`, `EXIT`. Use `GET DIAGNOSTICS`.
+
+> 📘 Next: **08-views-and-temporary-tables** – [Creating & Managing Views](../08-views-and-temporary-tables/01-creating-and-managing-views.md)
