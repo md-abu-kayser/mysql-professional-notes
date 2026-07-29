@@ -1,3 +1,5 @@
-# Temporary Tables Vs Derived Tables
+# Temporary Tables vs Derived Tables
 
-> Notes coming soon.
+`CREATE TEMPORARY TABLE` exists for session. Derived tables (subqueries in FROM) are virtual.
+
+> 📘 Next: [Materialized Views with Flexviews](04-materialized-views-with-flexviews.md)

@@ -1,3 +1,6 @@
-# Creating And Managing Views
+# Creating & Managing Views
 
-> Notes coming soon.
+```sql
+CREATE VIEW active_users AS SELECT * FROM users WHERE active = 1;
+DROP VIEW active_users;
+```
