@@ -11,7 +11,6 @@ class Program
         using var conn = new MySqlConnection(connString);
         conn.Open();
 
-        // Ensure the stored procedure exists (ignore if already exists)
         try
         {
             using var setupCmd = new MySqlCommand(
