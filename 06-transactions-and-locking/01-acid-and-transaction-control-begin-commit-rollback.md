@@ -1,3 +1,8 @@
-# Acid And Transaction Control Begin Commit Rollback
+# ACID & Transaction Control
 
-> Notes coming soon.
+```sql
+START TRANSACTION;
+INSERT INTO orders ... ;
+UPDATE inventory ... ;
+COMMIT; -- or ROLLBACK;
+```
